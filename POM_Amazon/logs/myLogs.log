@@ -1,0 +1,10 @@
+[INFO ] 2021-05-10 22:02:15.237 [main] QABookvalidation_test - Both the prices validated
+[INFO ] 2021-05-10 22:02:17.247 [main] QABookvalidation_test - item added to the cart
+[INFO ] 2021-05-10 22:02:18.266 [main] QABookvalidation_test - clicked on checkout
+[INFO ] 2021-05-10 22:12:33.726 [main] QABookvalidation_test - Both the prices validated
+[INFO ] 2021-05-10 22:12:35.843 [main] QABookvalidation_test - item added to the cart
+[INFO ] 2021-05-10 22:12:36.953 [main] QABookvalidation_test - clicked on checkout
+[TRACE] 2021-05-10 22:14:54.095 [main] QABookvalidation_test - Value entered in search bar
+[INFO ] 2021-05-10 22:14:58.707 [main] QABookvalidation_test - Both the prices validated
+[INFO ] 2021-05-10 22:15:00.928 [main] QABookvalidation_test - item added to the cart
+[INFO ] 2021-05-10 22:15:01.718 [main] QABookvalidation_test - clicked on checkout
